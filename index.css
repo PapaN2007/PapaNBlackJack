@@ -1,0 +1,29 @@
+body {
+    background-image: url("table.png");
+    background-size: cover;
+    font-family: "sans-serif";
+    font-weight: bold;
+    text-align: center;
+    height:100vh; 
+    }
+    
+    
+    h1 {
+    color: goldenrod
+    }
+    p{
+        color: goldenrod;
+    }
+    
+    button {
+    background:goldenrod;
+    border: 1px solid #211717;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    }
+    
